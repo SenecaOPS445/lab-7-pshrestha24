@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running CheckLab7.py
+===============================================================
+    User login name: kali
+    Linux system name: pshrestha24
+    Python executable: /usr/bin/python3
+    Python version: 3127
+    OS Platform: linux
+    Working Directory: /home/kali/OPS445/lab-7-pshrestha24
+    Start at: Fri Mar 21 23:41:59 2025
+===============================================================
